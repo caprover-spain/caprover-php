@@ -1,4 +1,4 @@
-# caprover-php
+# CapRover Php
 
 ```
 docker build -t mfalconsoft/caprover-php .
